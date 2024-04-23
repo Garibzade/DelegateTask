@@ -1,0 +1,14 @@
+C:\Users\Qarib\Desktop\c#\DelegateTask24.04\bin\Debug\net6.0\DelegateTask24.04.exe
+C:\Users\Qarib\Desktop\c#\DelegateTask24.04\bin\Debug\net6.0\DelegateTask24.04.deps.json
+C:\Users\Qarib\Desktop\c#\DelegateTask24.04\bin\Debug\net6.0\DelegateTask24.04.runtimeconfig.json
+C:\Users\Qarib\Desktop\c#\DelegateTask24.04\bin\Debug\net6.0\DelegateTask24.04.dll
+C:\Users\Qarib\Desktop\c#\DelegateTask24.04\bin\Debug\net6.0\DelegateTask24.04.pdb
+C:\Users\Qarib\Desktop\c#\DelegateTask24.04\obj\Debug\net6.0\DelegateTask24.04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qarib\Desktop\c#\DelegateTask24.04\obj\Debug\net6.0\DelegateTask24.04.AssemblyInfoInputs.cache
+C:\Users\Qarib\Desktop\c#\DelegateTask24.04\obj\Debug\net6.0\DelegateTask24.04.AssemblyInfo.cs
+C:\Users\Qarib\Desktop\c#\DelegateTask24.04\obj\Debug\net6.0\DelegateTask24.04.csproj.CoreCompileInputs.cache
+C:\Users\Qarib\Desktop\c#\DelegateTask24.04\obj\Debug\net6.0\DelegateTask24.04.dll
+C:\Users\Qarib\Desktop\c#\DelegateTask24.04\obj\Debug\net6.0\refint\DelegateTask24.04.dll
+C:\Users\Qarib\Desktop\c#\DelegateTask24.04\obj\Debug\net6.0\DelegateTask24.04.pdb
+C:\Users\Qarib\Desktop\c#\DelegateTask24.04\obj\Debug\net6.0\DelegateTask24.04.genruntimeconfig.cache
+C:\Users\Qarib\Desktop\c#\DelegateTask24.04\obj\Debug\net6.0\ref\DelegateTask24.04.dll
